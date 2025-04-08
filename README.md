@@ -34,8 +34,6 @@ We use Linear Regression to estimate the output and deploy the model using a sca
 ├── startup_prediction.py         # Training script for SageMaker
 ├── AWS_Train.ipynb               # SageMaker notebook to run the training job
 ├── sagemaker_lambda.py           # Lambda function to call SageMaker endpoint
-├── aws_sagemaker_demo_endtoend.mp4 # (Optional) Video walkthrough
-├── architecture.png              # AWS Architecture diagram (optional)
 └── README.md                     # This file
 ```
 
